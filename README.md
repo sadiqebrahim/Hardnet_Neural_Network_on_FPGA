@@ -9,6 +9,9 @@ This repository contains the implementation of a neural network on an FPGA platf
 - Support for digit recognition tasks using the trained MNIST neural network.
 - Modular design facilitating customization and extension for different FPGA platforms and neural network architectures.
 
+## Neuron Architecture
+![neuron-01](https://github.com/sadiqebrahim/Hardnet_Neural_Network_on_FPGA/assets/75269485/8da9908b-d6f7-4779-b008-350922e64da4)
+
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request with your proposed changes.
 
